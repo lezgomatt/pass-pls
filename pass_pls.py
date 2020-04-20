@@ -55,8 +55,8 @@ def confirm(primary_message, secondary_message=None):
         dialog.set_response_sensitive(Gtk.ResponseType.NO, True)
         return False
 
+    # Delay enabling of buttons to prevent accidental confirmation
     GLib.timeout_add(500, enable_buttons)
-
 
     response = dialog.run()
     dialog.destroy()
