@@ -1,6 +1,6 @@
 # pass-pls
 
-A GTK-based implemention of ssh-askpass.
+A GTK-based implementation of ssh-askpass.
 
 **Why?** Because `ssh-askpass-gnome` was asking for a password even for confirmations.
 Also, its lack of margins bothered me.
