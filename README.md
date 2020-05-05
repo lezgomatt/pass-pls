@@ -15,13 +15,13 @@ Also, its lack of margins bothered me.
 
 To install:
 ```
-sudo pip3 install pass-pls
-sudo update-alternatives --install /usr/bin/ssh-askpass ssh-askpass /usr/local/bin/pass-pls 100
+$ sudo pip3 install pass-pls
+$ sudo update-alternatives --install /usr/bin/ssh-askpass ssh-askpass /usr/local/bin/pass-pls 100
 ```
 
 To uninstall:
 ```
-sudo update-alternatives --remove ssh-askpass /usr/local/bin/pass-pls
+$ sudo update-alternatives --remove ssh-askpass /usr/local/bin/pass-pls
 ```
 
 If you do not have `update-alternatives`, manually create a symlink instead.
