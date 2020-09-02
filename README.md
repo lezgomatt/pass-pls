@@ -22,6 +22,7 @@ $ sudo update-alternatives --install /usr/bin/ssh-askpass ssh-askpass /usr/local
 To uninstall:
 ```
 $ sudo update-alternatives --remove ssh-askpass /usr/local/bin/pass-pls
+$ sudo pip3 uninstall pass-pls
 ```
 
 If you do not have `update-alternatives`, manually create a symlink instead.
