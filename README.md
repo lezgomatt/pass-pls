@@ -7,9 +7,9 @@ Also, its lack of margins bothered me.
 
 ## Screenshots
 
-![Ask](https://raw.githubusercontent.com/undecidabot/pass-pls/master/screenshots/ask.png)
+![Ask](https://raw.githubusercontent.com/lezgomatt/pass-pls/master/screenshots/ask.png)
 
-![Confirm](https://raw.githubusercontent.com/undecidabot/pass-pls/master/screenshots/confirm.png)
+![Confirm](https://raw.githubusercontent.com/lezgomatt/pass-pls/master/screenshots/confirm.png)
 
 ## Installation
 
